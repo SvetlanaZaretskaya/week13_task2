@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(202, 255, 255);
+}
+
+
+#error {
+    color: red;
+}
+
+.container {
+    max-width:500px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    border: 1px solid rgb(0, 166, 166);
+    padding: 4px 15px;
+    background-color: rgb(0, 255, 255);
+    border-radius: 5px;
+
+}
+
+button:hover {
+    background-color: rgb(0, 231, 231);
+}
+
+button:active {
+    background-color: rgb(1, 216, 216);
+}
